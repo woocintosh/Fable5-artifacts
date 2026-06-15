@@ -1,5 +1,5 @@
 # Civilization V Save File Gold Editor
-# for MacOS Appstore/Steam version
+# (for MacOS Appstore/Steam version)
 
 **Contributor:** [@woocintosh](https://github.com/woocintosh)  
 **Date:** June 2026  
