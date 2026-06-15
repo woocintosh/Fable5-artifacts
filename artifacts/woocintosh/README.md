@@ -1,5 +1,4 @@
 # Civilization V Save File Gold Editor
-# (for MacOS Appstore/Steam version)
 
 **Contributor:** [@woocintosh](https://github.com/woocintosh)  
 **Date:** June 2026  
@@ -12,7 +11,7 @@
 
 A Python script that edits the gold value in a Civilization V save file (`.Civ5Save`).
 
-No dependencies. Standard library only. Works on Mac, Windows, and Linux.
+No dependencies. Standard library only. Works on Mac.
 
 ## What I asked Fable 5 to do
 
